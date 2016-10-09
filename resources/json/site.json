@@ -1,0 +1,67 @@
+{
+	"contents": [
+		{
+			"name": "home",
+			"title": "HOME",
+			"content_url": "resources/md/home.md",
+			"thumbnail_url": "",
+			"children": ["about", "works", "others"]
+		},
+		{
+			"name": "about",
+			"title": "ABOUT ME",
+			"content_url": "resources/md/about.md",
+			"thumbnail_url": "",
+			"children": []
+		},
+		{
+			"name": "works",
+			"title": "WORKS",
+			"content_url": "resources/md/works.md",
+			"thumbnail_url": "resources/images/ocilo_thumb.png",
+			"children": ["robots", "tools", "society"]
+		},
+		{
+			"name": "robots",
+			"title": "ROBOT",
+			"content_url": "resources/md/robots.md",
+			"thumbnail_url": "resources/images/vanila_born.jpg",
+			"children": ["vanila", "wheel_robot"]
+		},
+		{
+			"name": "vanila",
+			"title": "VANILA",
+			"content_url": "resources/md/vanila.md",
+			"thumbnail_url": "resources/images/vanila_thumb.jpg",
+			"children": []
+		},
+		{
+			"name": "wheel_robot",
+			"title": "WHEEL ROBOT",
+			"content_url": "resources/md/wheel_robot.md",
+			"thumbnail_url": "resources/images/wheel_robot_thumb.jpg",
+			"children": []
+		},
+		{
+			"name": "tools",
+			"title": "TOOLS",
+			"content_url": "resources/md/tools.md",
+			"thumbnail_url": "resources/images/ocilo_thumb.png",
+			"children": []
+		},
+		{
+			"name": "society",
+			"title": "SOCIETY",
+			"content_url": "resources/md/society.md",
+			"thumbnail_url": "",
+			"children": []
+		},
+		{
+			"name": "others",
+			"title": "OTHER",
+			"content_url": "resources/md/other.md",
+			"thumbnail_url": "resources/images/image_L_1.jpg",
+			"children": []
+		}
+	]
+}
