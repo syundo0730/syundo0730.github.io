@@ -1,4 +1,5 @@
 # ABOUT ME
+<img src="./resources/images/icon.jpeg" width="150" height="150" />
 * twitter: [@ksyundo](https://twitter.com/ksyundo)
 * GitHub: [syundo0730](https://github.com/syundo0730)
 * blog: [ROBOLOG](http://blog.syundo.org/)
