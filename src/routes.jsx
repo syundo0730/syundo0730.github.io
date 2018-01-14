@@ -63,9 +63,9 @@ export class Robots extends Content {
 	}
 }
 
-export class Vanila extends Content {
+export class Vanilla extends Content {
 	constructor(props) {
-		super(props, "vanila")
+		super(props, "vanilla")
 	}
 }
 

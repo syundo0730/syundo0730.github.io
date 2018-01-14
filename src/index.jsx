@@ -2,7 +2,7 @@ import React from 'react'
 import { render } from 'react-dom'
 import { hashHistory, Router, Route, IndexRoute } from 'react-router'
 import Root from './root.jsx'
-import { Home, About, Works, Robots, Vanila, Others, Tools, Society, WheelRobot } from './routes.jsx'
+import { Home, About, Works, Robots, Vanilla, Others, Tools, Society, WheelRobot } from './routes.jsx'
 
 render((
   <Router history={hashHistory}>
@@ -11,7 +11,7 @@ render((
       <Route path="about" component={About}/>
       <Route path="works" component={Works}/>
       <Route path="robots" component={Robots}/>
-      <Route path="vanila" component={Vanila}/>
+      <Route path="vanilla" component={Vanilla}/>
       <Route path="wheel_robot" component={WheelRobot}/>
       <Route path="tools" component={Tools}/>
       <Route path="society" component={Society}/>

@@ -25,14 +25,14 @@
 			"name": "robots",
 			"title": "ROBOT",
 			"content_url": "resources/md/robots.md",
-			"thumbnail_url": "resources/images/vanila_born.jpg",
-			"children": ["vanila", "wheel_robot"]
+			"thumbnail_url": "resources/images/vanilla_born.jpg",
+			"children": ["vanilla", "wheel_robot"]
 		},
 		{
-			"name": "vanila",
-			"title": "VANILA",
-			"content_url": "resources/md/vanila.md",
-			"thumbnail_url": "resources/images/vanila_thumb.jpg",
+			"name": "vanilla",
+			"title": "vanilla",
+			"content_url": "resources/md/vanilla.md",
+			"thumbnail_url": "resources/images/vanilla_thumb.jpg",
 			"children": []
 		},
 		{
