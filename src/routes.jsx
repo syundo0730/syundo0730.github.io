@@ -69,6 +69,12 @@ export class Vanilla extends Content {
 	}
 }
 
+export class VanillaSkeleton extends Content {
+	constructor(props) {
+		super(props, "vanilla_skeleton")
+	}
+}
+
 export class WheelRobot extends Content {
 	constructor(props) {
 		super(props, "wheel_robot")
