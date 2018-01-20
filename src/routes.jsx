@@ -81,6 +81,12 @@ export class WheelRobot extends Content {
 	}
 }
 
+export class TRac extends Content {
+	constructor(props) {
+		super(props, "t_rac")
+	}
+}
+
 export class Others extends Content {
 	constructor(props) {
 		super(props, "others")

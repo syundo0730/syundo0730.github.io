@@ -26,7 +26,7 @@
 			"title": "ROBOT",
 			"content_url": "resources/md/robots.md",
 			"thumbnail_url": "resources/images/vanilla_born.jpg",
-			"children": ["vanilla", "vanilla_skeleton", "wheel_robot"]
+			"children": ["vanilla", "vanilla_skeleton", "wheel_robot", "t_rac"]
 		},
 		{
 			"name": "vanilla",
@@ -40,6 +40,13 @@
 			"title": "Vanilla Skelton",
 			"content_url": "resources/md/vanilla_skeleton.md",
 			"thumbnail_url": "resources/images/vanilla_skeleton_thumb.jpg",
+			"children": []
+		},
+		{
+			"name": "t_rac",
+			"title": "T-RAC",
+			"content_url": "resources/md/t_rac.md",
+			"thumbnail_url": "resources/images/t_rac.jpg",
 			"children": []
 		},
 		{
